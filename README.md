@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Didar
 
-[![Website]](abraxas-dev.github.io)
+[Website](https://abraxas-dev.github.io)
 
 ### Just another human who registered on Github
 
